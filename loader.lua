@@ -1,4 +1,5 @@
- function main()
+-- Лол олд пост , https://t.me/ametero_project/14
+function main()
      if not isSampLoaded() or not  isSampfuncsLoaded() then return end
      while not  isSampAvailable() do wait(100) end
      while true do wait(0)
